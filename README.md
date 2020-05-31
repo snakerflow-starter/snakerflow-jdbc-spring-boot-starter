@@ -1,1 +1,1 @@
-# snakerflow-hibernate-spring-boot-starter
+# snakerflow-jdbc-spring-boot-starter
